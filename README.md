@@ -1,2 +1,1 @@
-# deco_website_github
-DECO website code
+Website for the DECO project
