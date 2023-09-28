@@ -1,4 +1,4 @@
-Website for the DECO project
+Website for [DECO: Dense Estimation of 3D Human-Scene COntact in the Wild](https://deco.is.tue.mpg.de/)
 
 If you find this code useful for your research, please consider citing the following paper:
 
